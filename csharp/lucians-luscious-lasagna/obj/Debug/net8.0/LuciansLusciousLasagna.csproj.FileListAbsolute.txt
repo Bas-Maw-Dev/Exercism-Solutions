@@ -1,0 +1,6 @@
+/Users/sebastien.maw/exercism/csharp/lucians-luscious-lasagna/obj/Debug/net8.0/LuciansLusciousLasagna.csproj.AssemblyReference.cache
+/Users/sebastien.maw/exercism/csharp/lucians-luscious-lasagna/obj/Debug/net8.0/LuciansLusciousLasagna.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastien.maw/exercism/csharp/lucians-luscious-lasagna/obj/Debug/net8.0/LuciansLusciousLasagna.AssemblyInfoInputs.cache
+/Users/sebastien.maw/exercism/csharp/lucians-luscious-lasagna/obj/Debug/net8.0/LuciansLusciousLasagna.AssemblyInfo.cs
+/Users/sebastien.maw/exercism/csharp/lucians-luscious-lasagna/obj/Debug/net8.0/LuciansLusciousLasagna.csproj.CoreCompileInputs.cache
+/Users/sebastien.maw/exercism/csharp/lucians-luscious-lasagna/obj/Debug/net8.0/LuciansLusciousLasagna.sourcelink.json
